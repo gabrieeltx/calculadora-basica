@@ -1,0 +1,40 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(1, 78, 78);
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.campoNumeros {
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+input#campoNumeros {
+    width: 15em;
+    padding: 5px;
+    border-radius: 2px;
+}
+.container {
+    text-align: center;
+}
+.numeros {
+    padding: 10px;
+    margin: 1px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid ;
+}
+
+.calculadora {
+    position: relative;
+    margin: 0 auto;
+    background-color: rgb(22, 139, 160);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    max-width: 250px;
+    width: 100%;
+}
